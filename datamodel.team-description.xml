@@ -47,6 +47,53 @@
             </item>
           </items>
         </details>
+        <search>
+          <items>
+            <item id="name">
+              <rank>10</rank>
+            </item>
+            <item id="status">
+              <rank>20</rank>
+            </item>
+            <item id="org_id">
+              <rank>30</rank>
+            </item>
+            <item id="email">
+              <rank>40</rank>
+            </item>
+            <item id="phone">
+              <rank>50</rank>
+            </item>
+            <item id="notify">
+              <rank>60</rank>
+            </item>
+            <item id="function">
+              <rank>70</rank>
+            </item>
+            <item id="description">
+              <rank>80</rank>
+            </item>
+          </items>
+        </search>
+        <list>
+          <items>
+            <item id="status">
+              <rank>10</rank>
+            </item>
+            <item id="org_id">
+              <rank>20</rank>
+            </item>
+            <item id="email">
+              <rank>30</rank>
+            </item>
+            <item id="phone">
+              <rank>40</rank>
+            </item>
+            <item id="description">
+              <rank>50</rank>
+            </item>
+          </items>
+        </list>
       </presentation>
     </class>
   </classes>

@@ -10,7 +10,4 @@ Dict::Add('EN US', 'English', 'English', array(
 	'Class:Team/Attribute:description' => 'Description',
 ));
 
-Dict::Add('PT BR', 'Brazillian', 'Brazillian', array(
-	'Class:Team/Attribute:description' => 'Descrição',
-));
 ?>
